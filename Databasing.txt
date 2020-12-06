@@ -5,3 +5,12 @@ A: 2
 
 Notes on indexing:
 https://www.giantstride.gr/sql-indexing-part2/#:~:text=There%20are%20two%20main%20index,by%20that%20column(s).
+
+
+Indexes - 3
+A: A = 1.33B
+A = .80S, B = .60S => A = .80*(B/.60) = 1.33*B
+
+https://www.hackerrank.com/challenges/indexes-3/problem
+
+https://www.mssqltips.com/sqlservertip/1940/understanding-sql-server-index-fill-factor-setting/
